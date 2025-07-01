@@ -32,15 +32,15 @@ header{
     width: 60px;
 }
 
-.NJ{
+/* .NJ{
     color: white;
     margin-right: 18.75rem;
     font-size: 1.9rem;
     font-weight: 500;
     letter-spacing: 0.25rem;
     
-    /* padding-right: 100px; */
-}
+    
+} */
 
 nav ul {
     display: flex;
@@ -79,8 +79,9 @@ main {
 }
 
 .t-shirt {
-    max-width:350px;
+    max-width:450px;
     height: auto;
+    margin-right: 3.75rem;
     
   
     
@@ -92,7 +93,7 @@ main {
 }
 
 .mugs1 {
-    max-width: 570px;
+    max-width: 450px;
     height: auto;   
 }
 
