@@ -81,13 +81,13 @@ main {
 }
 
 .t-shirt {
-    max-width:400px;
+    max-width:300px;
     height: auto;
     margin-right: 1rem;
 }
 
 .mugs {
-   max-width: 400px;
+   max-width: 300px;
    height: auto;
    margin-left: 2rem;
 }
@@ -100,10 +100,11 @@ main {
 
 
 .content-left{
-    width: 20%;
-    margin-left: 1.25rem;
+    width: 30%;
+    margin-left: 1.1rem;
+    
 }
-.content-left h1 {
+.content-left h2 {
     font-size: 2rem;
 }
 
