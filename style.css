@@ -81,14 +81,15 @@ main {
 }
 
 .t-shirt {
-    max-width:450px;
+    max-width:400px;
     height: auto;
-    margin-right: 2rem;
+    margin-right: 1rem;
 }
 
 .mugs {
-   max-width: 450px;
+   max-width: 400px;
    height: auto;
+   margin-left: 2rem;
 }
 
 
